@@ -1,16 +1,7 @@
 # krata_sau_app
+krata_sau_app
 
-A new Flutter project.
+<img width="125px" src="https://github.com/Aditep404/krata_sau_app/assets/166105031/0af7cc2d-e8ba-4a67-8edb-6870b159e701">
 
-## Getting Started
+<img width="125px" src="https://github.com/Aditep404/krata_sau_app/assets/166105031/151120c8-f29d-422d-80bf-29403d1147fa">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
